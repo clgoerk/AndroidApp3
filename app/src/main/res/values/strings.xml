@@ -1,0 +1,33 @@
+<resources>
+    <!-- Labels for Speed and Units -->
+    <string name="speed_label">%.2f</string>
+    <string name="top_speed_label">Top Speed: %.2f</string>
+    <string name="top_speed_1320_label">Top Speed (1320ft): %.2f</string>
+    <string name="distance_label">Distance: %1$.2f %2$s</string>
+
+    <!-- Unit toggle labels -->
+    <string name="mph">MPH</string>
+    <string name="kph">KPH</string>
+    <string name="switch_units">Switch Units</string>
+    <string name="switch_to_kph">Switch to KPH</string>
+    <string name="switch_to_mph">Switch to MPH</string>
+
+    <!-- Quarter Mile run related messages -->
+    <string name="quarter_mile_started">Quarter Mile Run Started</string>
+    <string name="quarter_mile_completed">Quarter Mile Completed!</string>
+
+    <!-- Default button text for actions -->
+    <string name="start_run">Start ¼ Mile Run</string>
+    <string name="toggle_button">Toggle Units</string>
+
+    <!-- Reset Button text -->
+    <string name="reset_button">Reset</string>
+
+    <!-- Unit display -->
+    <string name="mp_h">MPH</string>
+    <string name="km_h">KPH</string>
+
+    <!-- General strings -->
+    <string name="app_name">SpeedTracker</string>
+    <string name="draggy">DRAGGY</string>
+</resources>
