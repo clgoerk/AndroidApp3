@@ -59,6 +59,7 @@
         android:backgroundTint="#FF5722"
         android:text="@string/switch_to_kph"
         android:textSize="18sp"
+        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/unitText" />
@@ -72,6 +73,7 @@
         android:backgroundTint="#FF5722"
         android:text="@string/start_run"
         android:textSize="18sp"
+        android:textColor="@color/black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/toggleButton" />
@@ -122,6 +124,7 @@
         android:layout_marginBottom="24dp"
         android:backgroundTint="#FF5722"
         android:text="@string/reset_button"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
